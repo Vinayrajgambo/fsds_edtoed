@@ -5,5 +5,7 @@
 git init
 
 git add abc.txt
-
 git add .   # all files added
+
+
+git commit -m "THis is my first commit"
